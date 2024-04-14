@@ -11,4 +11,5 @@ Para facilitar o processo, nós utilizamos do website [GBD Online](https://www.o
   ![imagem](https://github.com/Anak1n098/Paradigmas-em-Linguagens/blob/main/imagens/img1.png)
 
   E então escolher C++ ou Ruby.
+  
   ![imagem](https://github.com/Anak1n098/Paradigmas-em-Linguagens/blob/main/imagens/img2.png)
