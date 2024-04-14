@@ -19,6 +19,8 @@ Outra forma utilizável será o [Replit](https://replit.com/~), onde você só p
 #
  ### - Usando Replit
  Segue os links abaixo:
-        [Imperativo - Ruby](https://replit.com/@nicolassalvado2/Imperativo-Ruby)
-        [Funcional - Ruby](https://replit.com/@nicolassalvado2/Funcional-Ruby#main.rb)
-        [Genérico - C++](https://replit.com/@nicolassalvado2/Generico-C#main.cpp)
+ [Imperativo - Ruby](https://replit.com/@nicolassalvado2/Imperativo-Ruby)
+        
+ [Funcional - Ruby](https://replit.com/@nicolassalvado2/Funcional-Ruby#main.rb)
+        
+ [Genérico - C++](https://replit.com/@nicolassalvado2/Generico-C#main.cpp)
