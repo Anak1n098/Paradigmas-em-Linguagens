@@ -13,3 +13,5 @@ Para facilitar o processo, nós utilizamos do website [GBD Online](https://www.o
   E então escolher C++ ou Ruby.
   
   ![imagem](https://github.com/Anak1n098/Paradigmas-em-Linguagens/blob/main/imagens/img2.png)
+
+  Por fim, você irá acessar o código desejado a se utilizar presentes aqui no repositório, e após escolher a linguagm correspondente no site, copie e cole o código. Simpls assim.
