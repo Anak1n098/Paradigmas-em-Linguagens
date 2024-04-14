@@ -5,6 +5,7 @@ Neste projeto nós apresentamos o uso de 3 paradigmas diferentes em duas linguag
 #
 ## Método de utilização dos códigos:
 Para facilitar o processo, nós utilizamos do website [GBD Online](https://www.onlinegdb.com) para que não seja necessário baixar nenhum arquivo e não ser tão complicado de se usar os códigos.
+Outra forma utilizável será o [Replit](https://replit.com/~), onde você só precisará acessar os links abaixo e então rodar os códigos.
 
   ### - Usando Online GBD
   Você irá acessar o site pelo link dado anteriormente ou pesquisando no seu navegador de preferência. No site você terá que escolher qual linguagem utilizar seguindo os passos abaixo:
@@ -15,3 +16,9 @@ Para facilitar o processo, nós utilizamos do website [GBD Online](https://www.o
   ![imagem](https://github.com/Anak1n098/Paradigmas-em-Linguagens/blob/main/imagens/img2.png)
 
   Por fim, você irá acessar o código desejado a se utilizar presentes aqui no repositório, e após escolher a linguagm correspondente no site, copie e cole o código. Simples assim.
+#
+ ### - Usando Replit
+ Segue os links abaixo:
+        [Imperativo - Ruby](https://replit.com/@nicolassalvado2/Imperativo-Ruby)
+        [Funcional - Ruby](https://replit.com/@nicolassalvado2/Funcional-Ruby#main.rb)
+        [Genérico - C++](https://replit.com/@nicolassalvado2/Generico-C#main.cpp)
