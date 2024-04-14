@@ -1,5 +1,4 @@
 ##  Paradigmas em Linguagens de Programação (C++ e Ruby)
-#
 Neste projeto nós apresentamos o uso de 3 paradigmas diferentes em duas linguagens:
         - C++ : Genérico
         - Ruby : Imperativo e Funcional
