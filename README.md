@@ -5,6 +5,7 @@ Neste projeto nós apresentamos o uso de 3 paradigmas diferentes em duas linguag
 #
 ## Método de utilização dos códigos:
 Para facilitar o processo, nós utilizamos do website [GBD Online](https://www.onlinegdb.com) para que não seja necessário baixar nenhum arquivo e não ser tão complicado de se usar os códigos.
+
 Outra forma utilizável será o [Replit](https://replit.com/~), onde você só precisará acessar os links abaixo e então rodar os códigos.
 
   ### - Usando Online GBD
